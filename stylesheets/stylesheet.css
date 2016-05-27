@@ -1,5 +1,16 @@
 * {
   box-sizing: border-box; }
+  h1 {
+  color:#ffccff;
+  font-size: 75px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+h2 {
+  color:#ff99cc;
+  font-size: 45px;
+}
+
 
 body {
   padding: 0;
